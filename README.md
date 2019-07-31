@@ -1,7 +1,7 @@
 # prediction-of-students-exam-scores
 2019“添翼杯”人工智能创新应用大赛-智慧教育赛道  
 地址：https://tianyicup.kesci.com/org/tianyicup/competition/area/5d297b9c8c21fb002bd0c0e0  
-baseline分数8.26上下
+baseline分数：又修正了，不知道还到不到8.26
 ## 1.任务
 初赛：利用初中最后一年的相关考试和考点信息，预测初中最后一学期倒数第二、第三次考试的成绩。  
 复赛：利用初中 4 年中的相关考试和考点信息，预测初中最后一学期最后一次考试的的成绩
