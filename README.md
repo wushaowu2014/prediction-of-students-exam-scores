@@ -1,6 +1,7 @@
 # prediction-of-students-exam-scores
 2019“添翼杯”人工智能创新应用大赛-智慧教育赛道  
-地址：https://tianyicup.kesci.com/org/tianyicup/competition/area/5d297b9c8c21fb002bd0c0e0
+地址：https://tianyicup.kesci.com/org/tianyicup/competition/area/5d297b9c8c21fb002bd0c0e0  
+baseline分数8.26上下
 ## 1.任务
 利用学生信息、考试知识点信息、历史考试得分，预测学生在最后两次考试中的成绩。
 ## 2.日程
